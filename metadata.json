@@ -1,0 +1,6 @@
+{
+  "name": "Dish Detective",
+  "description": "Discover what's really on your plate. Interactive food investigation platform with ingredient anatomy, cooking journeys, taste radar, and allergen alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
